@@ -1,0 +1,11 @@
+Base path: /home/parallels/catkin_ws
+Source space: /home/parallels/catkin_ws/src
+Build space: /home/parallels/catkin_ws/build
+Devel space: /home/parallels/catkin_ws/devel
+Install space: /home/parallels/catkin_ws/install
+####
+#### Running command: "make cmake_check_build_system" in "/home/parallels/catkin_ws/build"
+####
+####
+#### Running command: "make -j2 -l2" in "/home/parallels/catkin_ws/build"
+####
