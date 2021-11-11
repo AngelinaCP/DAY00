@@ -1,0 +1,10 @@
+rosnode: node is [/bannikova]
+pinging /bannikova with a timeout of 3.0s
+xmlrpc reply from http://ubuntu-linux-20-04-desktop:33761/	time=0.491619ms
+xmlrpc reply from http://ubuntu-linux-20-04-desktop:33761/	time=1.308918ms
+xmlrpc reply from http://ubuntu-linux-20-04-desktop:33761/	time=1.471996ms
+xmlrpc reply from http://ubuntu-linux-20-04-desktop:33761/	time=1.048088ms
+xmlrpc reply from http://ubuntu-linux-20-04-desktop:33761/	time=1.235723ms
+xmlrpc reply from http://ubuntu-linux-20-04-desktop:33761/	time=1.466513ms
+xmlrpc reply from http://ubuntu-linux-20-04-desktop:33761/	time=1.336098ms
+
