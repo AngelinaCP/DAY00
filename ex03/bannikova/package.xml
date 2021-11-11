@@ -7,7 +7,11 @@
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->
   <!-- <maintainer email="89658366303@mail.ru">Angelina</maintainer> -->
+<<<<<<< HEAD:ex03/bannikova/package.xml
   <maintainer email="parallels@todo.todo">parallels</maintainer>
+=======
+  <maintainer email="89658366303@mail.ru">Angelina</maintainer>
+>>>>>>> 637a7eb11d44f394aa538119c07f01faa8a3f6f4:ex03/Bannikova/package.xml
 
 
   <!-- One license tag required, multiple allowed, one license per tag -->
