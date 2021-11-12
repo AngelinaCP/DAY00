@@ -11,7 +11,8 @@
 	<node pkg="turtlesim" name="mimic" type="mimic">
 	  <remap from="input" to="turtlesim1/turtle1"/>
 	  <remap from="output" to="turtlesim2/turtle1"/>
-	</node>
+	  </node>
+	  
 	<node pkg="turtlesim" name="mimic2" type="mimic">
           <remap from="input" to="turtlesim2/turtle1"/>
           <remap from="output" to="turtlesim3/turtle1"/>
