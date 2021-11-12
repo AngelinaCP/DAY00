@@ -1,0 +1,7 @@
+/rosdistro
+/roslaunch/uris/host_ubuntu_linux_20_04_desktop__39989
+/rosversion
+/run_id
+/turtlesim/background_b
+/turtlesim/background_g
+/turtlesim/background_r
